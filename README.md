@@ -7,6 +7,8 @@ Challenges
 ----------
 - [Project Euler](http://projecteuler.net/about)
 - [Code Eval](https://codeeval.com/)
+- [Code Chef](http://www.codechef.com/)
+- [ICPC ACM](https://icpcarchive.ecs.baylor.edu/)
 
 Languages Used
 --------------

@@ -1,4 +1,4 @@
-CCS - Code Challenge Solution: Code Eval
+CCS - Code Challenge Solution: ICPC ACM
 ===
 
 This folder showcases solutions to various programing challenges from Project Euler. Feed back is always welcome.
